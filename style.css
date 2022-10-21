@@ -380,8 +380,8 @@
       width: 5.5%;
       height: auto;
       position: relative;
-      top: 520px;
-      left: 5.12%;
+      top: 519.8px;
+      left: 66.47px;
       z-index: 3;
 
       animation-name: wheel;
@@ -396,7 +396,7 @@
     height: auto;
     position: relative;
     top: 449px;
-    left: 22.95%;
+    left: 295px;
     z-index: 3;
 
     animation-name: wheel;
